@@ -1,0 +1,25 @@
+INDEX VERSION 1.127
+G:\Jsf\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2152000891.index
+\SpringMvc\src\main\java
+G:\Jsf\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3077567259.index
+\RestFullJersey\src\main\resources
+G:\Jsf\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3173533663.index
+\RestEasyExample\src\main\resources
+G:\Jsf\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3494233438.index
+\JspSession\src
+G:\Jsf\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\93137564.index
+\Registration\src
+G:\Jsf\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2715169898.index
+\StrutsFirst\src\main\java
+G:\Jsf\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2926158768.index
+\First\src\main\resources
+G:\Jsf\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1185353194.index
+\SpringMvc\src\main\java
+G:\Jsf\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1164327470.index
+\struts\src\main\resources
+G:\Jsf\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2631048621.index
+\struts2\src\main\resources
+G:\Jsf\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2779129876.index
+\Struts2Example\src\main\java
+G:\Jsf\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1913542474.index
+\Struts2FirstProject\src

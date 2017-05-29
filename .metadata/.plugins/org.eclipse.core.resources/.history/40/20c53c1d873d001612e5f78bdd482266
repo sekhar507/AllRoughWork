@@ -1,0 +1,22 @@
+package com.mkyong.common;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.AnnotationConfiguration;
+
+public class App {
+	public static void main(String[] args) {
+		System.out.println("Maven + Hibernate + MySQL");
+
+		SessionFactory sf = new AnnotationConfiguration().configure().buildSessionFactory();
+		Session session = sf.openSession();
+		session.beginTransaction();
+		Student st = new Student();
+		st.setName("Mahesh");
+		st.setCity("FL");
+
+		session.save(st);
+		session.getTransaction().commit();
+
+	}
+}

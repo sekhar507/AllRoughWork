@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="issueManagementUrl">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="G:\Jsf\RestFullJersey\src\main\java\com\test\RestFullJersy.java"/>
+			<item value="G:\Jsf\Spring"/>
+			<item value="G:\Jsf\StrutsFirst"/>
+			<item value="G:\Jsf\First"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="groupId">
+			<item value="com.test"/>
+			<item value="com.test.springMvc"/>
+			<item value="com.test.spring"/>
+			<item value="com.spring"/>
+			<item value="com.struts2.Action"/>
+			<item value="com.struts"/>
+		</list>
+		<list key="package">
+			<item value="com.test.RestEasyExample"/>
+			<item value="com.test.RestFullJersey"/>
+			<item value="com.test.JersyRest"/>
+			<item value="com.test.springMvc.SpringMvc"/>
+			<item value="com.test.spring.SpringCI"/>
+			<item value="com.test.spring.Spring"/>
+			<item value="com.test.spring.SpringHello"/>
+			<item value="com.spring.Spring"/>
+			<item value="com.struts2.Action.struts"/>
+			<item value="com.struts2.Action.Struts2"/>
+			<item value="com.struts2.Action.STRUTS2"/>
+			<item value="com.struts2.Action.struts2"/>
+			<item value="com.struts.StrutsFirst"/>
+			<item value="com.struts.First"/>
+		</list>
+		<list key="artifactId">
+			<item value="RestEasyExample"/>
+			<item value="RestFullJersey"/>
+			<item value="JersyRest"/>
+			<item value="SpringMvc"/>
+			<item value="SpringCI"/>
+			<item value="Spring"/>
+			<item value="SpringHello"/>
+			<item value="struts"/>
+			<item value="Struts2"/>
+			<item value="STRUTS2"/>
+			<item value="struts2"/>
+			<item value="StrutsFirst"/>
+			<item value="First"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,20 @@
+package com.mkyong.common;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Table;
+
+import org.hibernate.annotations.GenericGenerator;
+
+@Entity
+@Table(name="student", catalog="mkyong")
+public class Student {
+	@ID
+	@GenericGenerator(name="id", strategy="increment")
+	@GeneratedValue(generator="id")
+	@Column(name="id",nullable=false,unique=true)
+	
+	
+
+}

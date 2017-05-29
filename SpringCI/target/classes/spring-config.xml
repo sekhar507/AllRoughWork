@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans  
+                http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+	<bean id="add" class="com.test.spring.SpringCI.Address">
+
+		<property name="state" value="FL"></property>
+		<property name="city" value="Miami"></property>
+		<property name="country" value="USA"></property>
+
+		
+	</bean>
+
+
+	<bean id="emp" class="com.test.spring.SpringCI.Employee">
+
+		<property name="id" value="7"></property>
+		<property name="name" value="Java"></property>
+		<property name="address" ref="add"></property>
+
+
+	</bean>
+
+
+
+
+</beans>

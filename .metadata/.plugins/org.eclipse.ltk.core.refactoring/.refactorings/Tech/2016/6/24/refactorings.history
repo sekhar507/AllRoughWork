@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.start.Iterator&apos; to &apos;Ite&apos;&#x0D;&#x0A;- Original project: &apos;First&apos;&#x0D;&#x0A;- Original element: &apos;com.start.Iterator&apos;&#x0D;&#x0A;- Renamed element: &apos;com.start.Ite&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Iterator&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.start{Iterator.java[Iterator" matchStrategy="1" name="Ite" qualified="false" references="true" similarDeclarations="false" stamp="1465255422494" textual="false" version="1.0"/>
+</session>

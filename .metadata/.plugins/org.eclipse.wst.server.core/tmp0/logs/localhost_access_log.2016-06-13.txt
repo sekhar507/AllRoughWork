@@ -1,0 +1,13 @@
+127.0.0.1 - - [13/Jun/2016:18:53:07 -0400] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [13/Jun/2016:18:53:11 -0400] "GET /Registration/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [13/Jun/2016:18:53:28 -0400] "GET /Registration/ HTTP/1.1" 200 372
+0:0:0:0:0:0:0:1 - - [13/Jun/2016:18:53:28 -0400] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [13/Jun/2016:18:53:47 -0400] "POST /Registration/servlet/Register HTTP/1.1" 200 33
+127.0.0.1 - - [13/Jun/2016:19:11:15 -0400] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [13/Jun/2016:19:18:13 -0400] "POST /Registration/servlet/Register HTTP/1.1" 200 33
+0:0:0:0:0:0:0:1 - - [13/Jun/2016:19:19:24 -0400] "GET /Registration/servlet/Register HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [13/Jun/2016:19:19:24 -0400] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [13/Jun/2016:19:19:26 -0400] "GET /Registration/servlet/Register HTTP/1.1" 200 -
+127.0.0.1 - - [13/Jun/2016:19:19:39 -0400] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [13/Jun/2016:19:22:26 -0400] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [13/Jun/2016:19:22:38 -0400] "GET /Registration/servlet/Register HTTP/1.1" 200 -
